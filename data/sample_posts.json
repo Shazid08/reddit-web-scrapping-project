@@ -1,0 +1,24 @@
+[
+    {
+        "post_id": "abc123",
+        "title": "What is the best Python library for data science?",
+        "score": 421,
+        "num_comments": 82,
+        "created_utc": 1700000000,
+        "author": "user1",
+        "subreddit": "datascience",
+        "url": "https://reddit.com/r/datascience/example1",
+        "selftext": "I'm curious what people prefer for ML work."
+    },
+    {
+        "post_id": "xyz567",
+        "title": "How to learn Pandas effectively?",
+        "score": 298,
+        "num_comments": 54,
+        "created_utc": 1700500000,
+        "author": "user2",
+        "subreddit": "learnpython",
+        "url": "https://reddit.com/r/learnpython/example2",
+        "selftext": "Struggling with DataFrame operations."
+    }
+]

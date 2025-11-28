@@ -1,0 +1,7 @@
+praw
+pandas
+matplotlib
+textblob
+requests
+beautifulsoup4
+jupyter
